@@ -1,4 +1,4 @@
-# Java100-
+# Java100%
 # Sistema de Cadastro de Alunos
 
 Este projeto foi desenvolvido durante minha jornada na faculdade, como parte do aprendizado em Java e programação orientada a objetos (POO). O sistema é um cadastro de alunos simples, mas funcional, que permite gerenciar informações como nome, idade, curso e fase dos alunos, além de oferecer operações básicas como cadastro, edição, exclusão e visualização.
