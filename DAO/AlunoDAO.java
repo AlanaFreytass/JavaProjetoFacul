@@ -1,7 +1,4 @@
-/*
- Aqui vamos simular a persistencia de dados.
- Nas proximas aulas nos vamos reprogramar esta classe para conectar-se com o banco de dados.
- */
+
 package DAO;
 
 import Model.Aluno;
